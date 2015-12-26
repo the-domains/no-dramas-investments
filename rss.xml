@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[No Dramas Investments]]></title>
         <description><![CDATA[No Dramas Investments]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/no-dramas-investments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 23:58:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 23:58:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/no-dramas-investments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projects]]></title>
+            <description><![CDATA[<article><h1>Projects</h1><p>No Dramas Investments has a number of "proof of concept" projects that have been in train since 2014.</p></article>]]></description>
+            <link>https://thegrid.ai/no-dramas-investments/projects/index.html</link>
+            <guid isPermaLink="false">a8241d50-43ad-4dc3-a0e1-41571b54e2b6</guid>
+            <pubDate>Sat, 26 Dec 2015 23:58:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who are we?]]></title>
             <description><![CDATA[<article><h1>Who are we?</h1><p>No Dramas Investments was created in 2014.</p></article>]]></description>
-            <link>undefinedwho-are-we/index.html</link>
+            <link>https://thegrid.ai/no-dramas-investments/who-are-we/index.html</link>
             <guid isPermaLink="false">bbe81ff6-d8f1-409c-bd51-f2c032d396a5</guid>
             <pubDate>Sat, 26 Dec 2015 23:58:02 GMT</pubDate>
         </item>
