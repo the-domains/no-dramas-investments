@@ -1,0 +1,28 @@
+name: No Dramas Investments
+favicon: null
+layout_spectrum: 0.9036574808415025
+typography_spectrum: 0.6884478160645813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2265347253996879
+  lightness: 0.6108818538486958
+  saturation: 0.49727149424143136
+  rhythmicContrast: 0.7608585397247225
+purpose: []
