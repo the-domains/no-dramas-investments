@@ -4,21 +4,21 @@
         <description><![CDATA[No Dramas Investments]]></description>
         <link>https://thegrid.ai/no-dramas-investments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 00:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 03:50:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/no-dramas-investments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What or who is No Dramas Investments?]]></title>
+            <description><![CDATA[<article><h1>What or who is No Dramas Investments?</h1><p>"Who are you?" I hear you ask.... Good question...</p></article>]]></description>
+            <link>https://thegrid.ai/no-dramas-investments/who-are-we/index.html</link>
+            <guid isPermaLink="false">bbe81ff6-d8f1-409c-bd51-f2c032d396a5</guid>
+            <pubDate>Sun, 27 Dec 2015 03:50:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Projects and Proof of Concept]]></title>
             <description><![CDATA[<article><h1>Projects and Proof of Concept</h1><p>No Dramas Investments has a number of "proof of concept" projects that have been in train since 2014.</p></article>]]></description>
             <link>https://thegrid.ai/no-dramas-investments/projects/index.html</link>
             <guid isPermaLink="false">a8241d50-43ad-4dc3-a0e1-41571b54e2b6</guid>
             <pubDate>Sun, 27 Dec 2015 00:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who are we?]]></title>
-            <description><![CDATA[<article><h1>Who are we?</h1><p>No Dramas Investments was created in 2014.</p></article>]]></description>
-            <link>https://thegrid.ai/no-dramas-investments/who-are-we/index.html</link>
-            <guid isPermaLink="false">bbe81ff6-d8f1-409c-bd51-f2c032d396a5</guid>
-            <pubDate>Sat, 26 Dec 2015 23:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
